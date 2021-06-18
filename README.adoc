@@ -16,7 +16,11 @@ v0.1, 2021-06-18
 :appendix-caption: 付録
 :example-caption: 例
 :source-highlighter: highlightjs
+:stem:
+
+stem:[ N(x|\mu,\sigma^2)=\frac{1}{(2\pi\sigma^2)^{1/2}}\exp\{-\frac{1}{2\sigma^2}(x-\mu)^2} ]
+stem:[ \int_-\infty^\inftyN(x|\mu,\sigma^2)dx =1 ]
 
 Documentation project on introduction to digital circuit design with Verilog hardware description language
 
-$x=1$
+test latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon] test
